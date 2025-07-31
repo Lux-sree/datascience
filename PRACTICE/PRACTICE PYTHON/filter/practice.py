@@ -1,0 +1,6 @@
+lst=input("enter the elems").split()
+lst1=list(map(int,lst))
+lst_even=list(filter(lambda n:n%2==0,lst1))
+print(lst_even)
+lst_odd=list(filter(lambda n:n%2==1,lst1))
+print(lst_odd)

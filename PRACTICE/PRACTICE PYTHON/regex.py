@@ -1,0 +1,12 @@
+import re
+s=input("enter a string")
+cap=re.findall(r"[A-Z]",s)
+smal=re.findall(r"[a-z]",s)
+dig=re.findall(r"\d",s)
+spcl=re.findall(r"[^\w\s]",s)
+all_space=re.findall(r"\s",s)
+print(cap)
+print(smal)
+print(dig)
+print(spcl)
+print(all_space)
