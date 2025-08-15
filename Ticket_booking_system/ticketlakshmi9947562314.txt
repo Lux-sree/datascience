@@ -1,0 +1,22 @@
+-------------------------------------------------------------
+                 BUS TICKET - TRAVEL AGENCY                
+-------------------------------------------------------------
+
+Passenger Name : lakshmi
+Phone Number   : 9947562314
+Age            : 21
+Category       : Student
+
+Route          : Kozhikode to Kochi
+Departure Time : 01:30 PM
+Seats Booked   : 2
+
+Ticket Price   : <UNK>450
+Total Amount   : <UNK>900
+Discount rate  : <UNK>135.0
+Final Amount   : <UNK>765.0
+
+-------------------------------------------------------------
+
+
+Thank you for booking with us lakshmi!
